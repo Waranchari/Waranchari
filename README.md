@@ -1,5 +1,3 @@
+Hello, I'm Waranchari ! 👋
+A data science student at Chiang Mai University 👀
 
-
-<!---
-Data science student at Chiang Mai University 👀 .
---->
